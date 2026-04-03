@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using System;
 using Lab.Interfaces;
-using Lab.Implementations.GenCode1;
+using Lab.Implementations.GenCode2;
 
 namespace Module.Tests
 {
